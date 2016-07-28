@@ -1,16 +1,16 @@
-typography_spectrum: 0.6735240772832185
+typography_spectrum: 0.17715653171762824
 color:
-  brandStrength: 0.8918697831686586
-  lightness: 0.43843354377895594
-  saturation: 0.15244372934103012
-  rhythmicContrast: 0.5291303677950054
+  brandStrength: 0.1973452519159764
+  lightness: 0.1235381499864161
+  saturation: 0.3931632835883647
+  rhythmicContrast: 0.6719904062338173
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-layout_spectrum: 0.9926741304807365
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+layout_spectrum: 0.3670083126053214
 name: mr.neilypops
 title: linux notes
 description: linux scrots and tips
