@@ -1,4 +1,3 @@
-layout_spectrum: 0.9926741304807365
 typography_spectrum: 0.6735240772832185
 color:
   brandStrength: 0.8918697831686586
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.9926741304807365
 name: mr.neilypops
+title: linux notes
 description: linux scrots and tips
